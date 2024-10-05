@@ -1,0 +1,81 @@
+
+  :host {
+    display: block;
+    height: 500vh;
+    background-color: #eee9e9; 
+  }
+.SouthIndianFoods{
+ color: rgb(201, 15, 15);
+ text-align: center;
+ background-color: aquamarine;
+}
+.paraparagraphs{
+    color: rgb(90, 128, 19);
+    text-align:center;
+}
+
+.image1{
+    text-align: center;
+}
+
+.Intro{
+    color:brown;
+}
+
+.blog1{
+    text-align:left;
+    background-color: rgb(200, 218, 233);
+}
+
+.idly{
+    color: brown;
+}
+
+
+
+
+.biryani{
+    h2{
+    
+    color: brown;
+
+}
+ul{
+    color: black;
+}
+img:hover{
+    width: 50%;
+    border-radius: 4%;
+}
+
+}
+.food-container {
+    text-align: center;
+  }
+  
+  .log-container{
+  text-align: center;
+  
+  }
+  
+  .food-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    display: inline-block;
+    width: 200px;
+    transition: transform 0.2s;
+    
+  }
+  
+  .food-card img {
+    width: 100%;
+    border-radius: 4%;
+  }
+  
+  .food-card:hover {
+    transform: scale(1.50);
+  }
+
+  
